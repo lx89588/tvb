@@ -11,7 +11,7 @@
 		},
 		{
 			"name": "coolsun_new",
-			"url": "https://od.lk/s/MzNfMjcwMzU4MDJf/tvbox.txt"
+			"url": "https://raw.gitmirror.com/lx89588/tvb/main/tvbox.txt"
 		},
 		{
 			"name": "熊猫不叫猫",
