@@ -14,16 +14,12 @@
 			"url": "https://raw.gitmirror.com/lx89588/tvb/main/tvb.txt"
 		},
 		{
-			"name": "熊猫不叫猫",
-			"url": "https://raw.gitmirror.com/xmbjm/xmbjm/main/xmbjm.json"
-		},
-		{
-			"name": "gaotianliuyun",
-			"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"
-		},
-		{
 			"name": "🎷讴歌线路",
 			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
+		},
+		{
+			"name": "✨月光宝盒",
+			"url": "https://raw.gitmirror.com/guot55/YGBH/main/pro.json"
 		},
 		{
 						"name": "💙天威影视",
@@ -42,20 +38,20 @@
 									"url": "https://pastebin.com/raw/5NHaxyGR"
 		},
 		{
-			"name": "✨月光宝盒",
-			"url": "https://raw.gitmirror.com/guot55/YGBH/main/pro.json"
-		},
-		{
-			"name": "✨月光宝盒vip",
-			"url": "https://raw.gitmirror.com/guot55/YGBH/main/vip2.json"
-		},
-		{
 						"name": "💗香雅倩线路",
 									"url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
 		},	
 		{
 						"name": "💞小米线路",
 									"url": "http://xhww.fun/小米/DEMO.json"
+		},
+		{
+			"name": "gaotianliuyun",
+			"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"
+		},
+		{
+			"name": "熊猫不叫猫",
+			"url": "https://raw.gitmirror.com/xmbjm/xmbjm/main/xmbjm.json"
 		},
 		{
 						"name": "🌺PG线路",
@@ -76,6 +72,10 @@
 		{
 			"name": "🍉运输车线路",
 			"url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"
+		},
+		{
+			"name": "✨月光宝盒vip",
+			"url": "https://raw.gitmirror.com/guot55/YGBH/main/vip2.json"
 		},
 
 		{
