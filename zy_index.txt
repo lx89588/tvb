@@ -22,6 +22,10 @@
 			"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"
 		},
 		{
+			"name": "🎷讴歌线路",
+			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
+		},
+		{
 						"name": "💙天威影视",
 									"url": "http://tvkj.top/DC/tvys/svip.json"
 		},
@@ -44,10 +48,6 @@
 		{
 			"name": "✨月光宝盒vip",
 			"url": "https://raw.gitmirror.com/guot55/YGBH/main/vip2.json"
-		},
-		{
-			"name": "🎷讴歌线路",
-			"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
 		},
 		{
 						"name": "💗香雅倩线路",
