@@ -34,12 +34,20 @@
 									"url": "http://肥猫.live"
 		},
 		{
+						"name": "💖盒子迷线路",
+									"url": "https://盒子迷.top/禁止贩卖"
+		},
+		{
+						"name": "💖安卓哥线路",
+									"url": "https://安卓哥.com/"
+		},
+		{
 						"name": "💝道长线路",
 									"url": "https://pastebin.com/raw/5NHaxyGR"
 		},
 		{
 						"name": "💗香雅倩线路",
-									"url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+									"url": "https://raw.gitmirror.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
 		},	
 		{
 						"name": "💞小米线路",
