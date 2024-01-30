@@ -18,7 +18,11 @@
 			"url": "http://nxog.eu.org/m/333.php?mz=index&jar=index2&123"
 		},
 		{
-			"name": "✨月光宝盒",
+			"name": "✨月光宝盒1",
+			"url": "https://gitee.com/guot54/YGBH777/raw/main/box%E5%8E%9F.json"
+		},
+		{
+			"name": "✨月光宝盒2",
 			"url": "https://raw.gitmirror.com/guot55/YGBH/main/pro.json"
 		},
 		{
