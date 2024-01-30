@@ -59,7 +59,7 @@
 		},
 		{
 			"name": "gaotianliuyun",
-			"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"
+			"url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0821.json"
 		},
 		{
 			"name": "熊猫不叫猫",
