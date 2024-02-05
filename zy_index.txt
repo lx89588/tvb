@@ -19,7 +19,7 @@
 		},
 		{
 			"name": "✨月光宝盒1",
-			"url": "https://gitee.com/guot54/YGBH777/raw/main/box%E5%8E%9F.json"
+			"url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json"
 		},
 		{
 			"name": "✨月光宝盒2",
