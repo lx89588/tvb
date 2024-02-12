@@ -26,6 +26,10 @@
 			"url": "https://raw.gitmirror.com/guot55/YGBH/main/pro.json"
 		},
 		{
+			"name": "✨du盒线路",
+			"url": "https://tv.youdu.fan:666/毒盒影视/"
+		},
+		{
 						"name": "💙天威影视",
 									"url": "http://tvkj.top/DC/tvys/svip.json"
 		},
