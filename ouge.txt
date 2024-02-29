@@ -2,7 +2,7 @@
 
 {
 "wallpaper":"./t/",
-"spider":"https://raw.gitmirror.com/lx89588/tvb/main/ou.jar","warningText":"欧歌提示:
+"spider":"https://raw.gitmirror.com/lx89588/tvb/main/jar/ou.jar","warningText":"欧歌提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
