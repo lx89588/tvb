@@ -14,6 +14,14 @@
 			"url": "https://raw.gitmirror.com/lx89588/tvb/main/tvb.txt"
 		},
 		{
+			"name": "地表最强接口",
+			"url": "https://raw.gitmirror.com/lx89588/tvb/main/地表最强接口.txt"
+		},
+		{
+			"name": "影视综合接口",
+			"url": "https://raw.gitmirror.com/lx89588/tvb/main/影视综合接口.txt"
+		},
+		{
 			"name": "🎷讴歌线路_自建",
 			"url": "https://raw.gitmirror.com/lx89588/tvb/main/ouge.txt"
 		},
