@@ -27,7 +27,7 @@
 		},
 		{
 			"name": "🎷讴歌线路",
-			"url": "http://a.nxog.top/m/333.php?mz=index&jar=index2&123"
+			"url": "http://a.nxog.top/m/111.php?mz=index&jar=index2&123"
 		},
 		{
 			"name": "✨月光宝盒1",
