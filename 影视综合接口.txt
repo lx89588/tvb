@@ -1,7 +1,7 @@
 {
 "spider":"https://raw.gitmirror.com/lx89588/tvb/main/jar/影视综合接口.jar",
-"spider": "https://raw.gitmirror.com/lx89588/tvb/main/jar/dj0.jar",
-"spider": "https://raw.gitmirror.com/lx89588/tvb/main/jar/Yoursmile.jar",
+//"spider": "https://raw.gitmirror.com/lx89588/tvb/main/jar/dj0.jar",
+//"spider": "https://raw.gitmirror.com/lx89588/tvb/main/jar/Yoursmile.jar",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 	"sites": [
