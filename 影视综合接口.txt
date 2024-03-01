@@ -707,18 +707,6 @@
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
     }  },
 
-
- {
-            "key": "豆瓣",
-            "name": "🌭豆瓣推荐",
-            "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://drpy.cainisi.cf/js/drpy.js"
-        },
 {
       "jar": "http://hucongrong.web3v.work/lib/danmu.jar",
       "key": "csp_OK荐片",
