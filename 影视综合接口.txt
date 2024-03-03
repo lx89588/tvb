@@ -5,6 +5,7 @@
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 	"sites": [
+{"key":"豆瓣","name":"📢影视综合接口","type":3,"api":"csp_Douban","searchable":0},
 {"key": "豆瓣","name":"🧧影视综合接口🏮","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/js/豆瓣.js"},
 { "key": "横院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
  {
