@@ -10,7 +10,7 @@
 "lives":[{"name":"live","type":0,"url":"https://raw.cachefly.998111.xyz/ouhaibo1980/tvbox/master/ou.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TV","type":0,"url":"https://fanmingming.com/txt?url=https%3A%2F%2Flive.fanmingming.com%2Ftv%2Fm3u%2Fipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"豆瓣888","name":"📢欧歌_自建","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/豆瓣.js"},
+{"key":"豆瓣888","name":"📢DR_自建","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/豆瓣.js"},
 {"key":"豆瓣2","name":"📢欧歌榜单a.nxog.top","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢欧歌公告❤更新:2/21❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://a.nxog.top/m/jar.php?id=xx;md5;18ee45921e80c33623b4c0561970666a","ext": "http://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
 
