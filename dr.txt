@@ -132,12 +132,9 @@
 {"key":"TVB云播","name":"TVB云播","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/TVB云播.js"},
 {"key":"UM电影","name":"UM电影","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/UM电影.jsd"},
 {"key":"UrleBird[飞]","name":"UrleBird[飞]","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/UrleBird[飞].js"},
-{"key":"a","name":"a","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/a.txt"},
-{"key":"alist","name":"alist","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/alist.conf"},
 {"key":"cokemv","name":"cokemv","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/cokemv.js"},
 {"key":"ddys","name":"ddys","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/ddys.js"},
 {"key":"drpy","name":"drpy","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/drpy.js"},
-{"key":"drpy","name":"drpy","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/drpy.txt"},
 {"key":"gaze","name":"gaze","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/gaze.jsd"},
 {"key":"i275听书","name":"i275听书","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/i275听书.js"},
 {"key":"if101[飞]","name":"if101[飞]","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/if101[飞].js"},
@@ -145,8 +142,6 @@
 {"key":"ikanbot3","name":"ikanbot3","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/ikanbot3.js"},
 {"key":"jsapi","name":"jsapi","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/jsapi.js"},
 {"key":"l0l","name":"l0l","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/l0l.jsd"},
-{"key":"rules","name":"rules","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/rules.py"},
-{"key":"version","name":"version","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/version.txt"},
 {"key":"vidhub","name":"vidhub","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/vidhub.jsd"},
 {"key":"voflix","name":"voflix","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/voflix.js"},
 {"key":"两个BT","name":"两个BT","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/两个BT.js"},
@@ -217,9 +212,6 @@
 {"key":"思古影视[V2]","name":"思古影视[V2]","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/思古影视[V2].js"},
 {"key":"悠久影院","name":"悠久影院","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/悠久影院.js"},
 {"key":"我爱跟剧","name":"我爱跟剧","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/我爱跟剧.js"},
-{"key":"我的哔哩","name":"我的哔哩","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/我的哔哩.js"},
-{"key":"播客","name":"播客","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/播客.js"},
-{"key":"斗鱼直播","name":"斗鱼直播","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/斗鱼直播.js"},
 {"key":"新片场","name":"新片场","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/新片场.js"},
 {"key":"新视觉影视","name":"新视觉影视","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/新视觉影视.js"},
 {"key":"无名小站","name":"无名小站","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/无名小站.jsd"},
@@ -230,7 +222,6 @@
 {"key":"有声绘本网","name":"有声绘本网","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/有声绘本网.js"},
 {"key":"朴樱影视","name":"朴樱影视","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/朴樱影视.js"},
 {"key":"楚门影院","name":"楚门影院","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/楚门影院.js"},
-{"key":"模板","name":"模板","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/模板.js"},
 {"key":"欧乐影院[飞]","name":"欧乐影院[飞]","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/欧乐影院[飞].js"},
 {"key":"欧帝影院","name":"欧帝影院","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/欧帝影院.js"},
 {"key":"武享吧","name":"武享吧","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/nxog.js","ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/武享吧.js"},
@@ -447,16 +438,19 @@
 ],
 
 "rules":
-	[{"name":"量子广告","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},
-	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08"]},
-	{"name":"索尼广告","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
-	{"name":"暴风广告","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    [{"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
+	{"name":"索尼广告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
+	{"name":"暴风广告","hosts":["bfzy","bfbfvip"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
 	{"name":"星星广告","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name":"快看广告","hosts":["kuaikan"],"regex":["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"磁力广告","hosts":["magnet"],"regex":["更多","请访问","example","社 區","x u u","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-	{"name":"一起看广告","hosts":["yqk88"],"regex":["18.4","15.1666"]},
+	{"name":"一起看广告","hosts":["yqk88"],"regex":["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
 	{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 	{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+	{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]},
 	{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}],
+	
 "doh":
 	[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 	{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
@@ -501,7 +495,8 @@
 		{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 		{"category":4,"name":"mediacodec-hevc","value":"1"},
 		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-"ads":
-	["mozai.4gtv.tv"]
+		
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+
 }
 
