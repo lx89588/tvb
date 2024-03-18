@@ -3,7 +3,7 @@ muban.首图2.二级.tabs = '.stui-pannel__head.bottom-line.active.clearfix h3';
 var rule = {
 	title:'真不卡',
 	模板:'首图2',
-	host:'https://www.zbkk.net',
+	host:'https://www.bkyb.net',
 	//url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
