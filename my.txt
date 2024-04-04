@@ -8,7 +8,7 @@
 
 	"lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
     "sites": [
-{"key":"豆瓣888","name":"📢蚂蚁的日常_自建","type":3,"api":"https://raw.gitmirror.com/lx89588/tvb/main/js/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/lx89588/tvb/main/js/豆瓣.js"},
+{"key":"豆瓣888","name":"📢蚂蚁的日常_自建","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/lx89588/tvb/main/js/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/lx89588/tvb/main/js/豆瓣.js"},
         {
             "key": "drpy_js_豆瓣",
             "name": "公众号-蚂蚁的日常",
