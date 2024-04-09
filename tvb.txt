@@ -12,7 +12,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
 "sites":[
-{"key":"豆瓣888","name":"📢coolsun_new","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/lx89588/tvb/main/js/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/lx89588/tvb/main/js/豆瓣.js"},
+{"key":"豆瓣888","name":"📢coolsun_new","type":3,"api":"./js/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"./js/豆瓣.js"},
 { "key": "横版影院", "name": "💚主力源", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ], "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
  { "key": "短剧网", "name": "🍎备用源一", "type": 3, "api": "csp_Duanjuw", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
  
