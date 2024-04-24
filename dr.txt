@@ -15,7 +15,7 @@
 {"key":"豆瓣1","name":"📢欧歌公告❤更新:2/21❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://a.nxog.top/m/jar.php?id=xx;md5;18ee45921e80c33623b4c0561970666a","ext": "http://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
 
 
-{ "key": "横版影院", "name": "💚主力源", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "连续剧","电影片" ], "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" }, 
+{ "key": "横版影院", "name": "💚主力源", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "连续剧","电影片" ], "jar": "/jar/ou.jar" }, 
 {
       "key": "csp_appysv2_阿里影视",
       "name": "🍎备用源三",
