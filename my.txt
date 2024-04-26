@@ -1,9 +1,9 @@
 //蚂蚁窝原链接：https://pan.shangui.cc/f/kKGaHR/%E8%9A%82%E8%9A%81%E6%8E%A5%E5%8F%A3.txt
 {
 "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",//第1包
- "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",//第2包
-"spider": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",//第3包
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",//测试包
+// "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",//第2包
+//"spider": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",//第3包
+//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",//测试包
  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7",//新版线路jar包
 
 	"lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
