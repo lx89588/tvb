@@ -1,3 +1,4 @@
+
 //🇨🇳欧歌2024-02-23 17:43:56整合本接口
 
 {
@@ -155,6 +156,7 @@
 
 //jar🎄🛶🎄🎃💘💖💖
 {"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"LIBVIO","name":"LIBVIO","type":3,"api":"./js/nxog.js","ext":"./js/LIBVIO.js"},
 {"key":"csp_Kuaikan","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南瓜","name":"💡南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
 {"key":"天天","name":"💡天天┃影视","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
@@ -244,7 +246,6 @@
 {"key":"8号影院","name":"8号影院","type":3,"api":"./js/nxog.js","ext":"./js/8号影院.js"},
 {"key":"voflix","name":"voflix","type":3,"api":"./js/nxog.js","ext":"./js/voflix.js"},
 {"key":"茶杯狐","name":"茶杯狐","type":3,"api":"./js/nxog.js","ext":"./js/茶杯狐.js"},
-{"key":"LIBVIO","name":"LIBVIO","type":3,"api":"./js/nxog.js","ext":"./js/LIBVIO.js"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"./js/nxog.js","ext":"./js/快看影视.js"},
 {"key":"小猫咪","name":"小猫咪","type":3,"api":"./js/nxog.js","ext":"./js/小猫咪.jsd"},
 {"key":"快看","name":"快看","type":3,"api":"./js/nxog.js","ext":"./js/快看.js"},
