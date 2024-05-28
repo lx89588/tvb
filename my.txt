@@ -2,7 +2,7 @@
 {
 "spider": "./custom_spider.jar",//第1包
  "spider": "./jar/Yoursmile.jar",//第2包
-
+ 
 	"lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
     "sites": [
 {"key":"豆瓣888","name":"📢蚂蚁的日常_自建","type":3,"api":"./js/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"./js/豆瓣.js"},
@@ -10,8 +10,8 @@
             "key": "drpy_js_豆瓣",
             "name": "公众号-蚂蚁的日常",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+            "api": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
 { "key": "横版影院", "name": "💚主力源", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ], "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
  { "key": "短剧网", "name": "🍎备用源一", "type": 3, "api": "csp_Duanjuw", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
@@ -451,9 +451,9 @@
         {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/玩偶哥哥.json"},
-        {"key": "csp_XYQHikerAL_玩偶妹妹","name":"📀玩偶妹妹(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/玩偶妹妹.json"},
-        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/云盘资源.json"},
+        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cf.ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/玩偶哥哥.json"},
+        {"key": "csp_XYQHikerAL_玩偶妹妹","name":"📀玩偶妹妹(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cf.ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/玩偶妹妹.json"},
+        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cf.ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/云盘资源.json"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         //磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -1857,32 +1857,32 @@
             "key": "drpy_js_奇珍异兽",
             "name": "🎖爱奇艺｜2k",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+            "api": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
         },
 
         {
             "key": "drpy_js_优酷",
             "name": "🎖优酷｜2k",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+            "api": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
         },
     {"key":"量子","name":"🎖量子｜2k","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
         {
             "key": "drpy_js_腾云驾雾",
             "name": "🎖腾讯｜2k",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+            "api": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
         },
     {"key":"独播","name":"🎖独播｜2k","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/duboku.json"},
         {
             "key": "drpy_js_百忙无果",
             "name": "🎖芒果｜2k",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+            "api": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
         },
     {"key":"暴風","name":"🎖暴風｜2k","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {
