@@ -3148,5 +3148,6 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "warningText": "公众号【蚂蚁的日常】提醒你接口免费"
+    "warningText": "公众号【蚂蚁的日常】提醒你接口免费",
+"spider":"./jar/ou.jar"
 }
