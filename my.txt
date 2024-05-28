@@ -3435,8 +3435,5 @@
                 "更 新"
             ]
         }
-    ],
-    "wallpaper": "https://tool.weetai.cn/api",
-    "warningText": "公众号【蚂蚁的日常】提醒你接口免费",
-    "spider": "https://agit.ai/cyl518/yl/raw/branch/master/pytv23-6-13.jar"
+    ]
 }
